@@ -19,7 +19,7 @@
 <!--- trophy (start) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=1010nishant&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
+      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=saniagupta3107&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
     </a>
 </div>
 <!--- trophy (start) -->
@@ -55,12 +55,15 @@
 <table align="center">
 <tbody><tr border="none">
 <td width="50%" align="center">
+
   <img align="center" src="Screenshot 2025-06-09 201155.png">
   <br><br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="Screenshot 2025-06-09 201212.png"> 
+<!--   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="Screenshot 2025-06-09 201212.png">  -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saniagupta3107&theme=github-compact" />
+
 </td><td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
-  </td>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saniagupta3107&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saniagupta3107&theme=dark" alt="GitHub Streak" /></a>  </td>
 </tr>
 </tbody></table>
 <!--- stats (end) -->
@@ -76,7 +79,8 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&amp;perline=14">
+    <img src="https://skillicons.dev/icons?i=cpp,py,mysql,js,html,css,react,nextjs,nodejs,git,aws,vscode,tensorflow,sklearn&perline=7" />
+
   </a>
 </p>
 <!-- Connect with me -->
